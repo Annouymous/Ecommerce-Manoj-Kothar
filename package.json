@@ -26,6 +26,8 @@
     "embla-carousel-react": "^8.5.1",
     "firebase": "^11.0.2",
     "firebase-admin": "^13.0.1",
+    "firebase-functions": "^6.1.1",
+    "firebase-tools": "^13.27.0",
     "lottie-react": "^2.4.0",
     "lucide-react": "^0.460.0",
     "next": "15.0.3",
